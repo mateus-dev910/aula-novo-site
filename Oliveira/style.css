@@ -1,0 +1,89 @@
+
+body{
+    background-color: #440202;
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+p{
+    font-weight: bold;
+}
+
+
+img{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+h3{
+    text-decoration: underline;
+}
+
+
+mark{
+    background-color: darkgreen;
+}
+
+
+button{
+    background-color: darkgreen;
+    color: #440202;
+    border: 8px;
+    border-color: gold;
+}
+button:hover{
+    background-color: #440202;
+    color: gold;
+    cursor: pointer;
+}
+
+
+header{
+    background-color: goldenrod;
+}
+
+
+MAIN{
+    background-color: green;
+}
+
+
+footer{
+    background-color: #440202;
+}
+
+#menu{
+    background-color: aliceblue;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+    justify-content: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+
+}
+
+.section-one{
+    text-align: center;
+}
